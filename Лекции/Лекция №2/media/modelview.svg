@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="modelview.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3650"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3653"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3665"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3612"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3612-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4665"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4696"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible">
+      <path
+         id="path3653-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4766"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         id="path3653-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-4"
+       style="overflow:visible">
+      <path
+         id="path3650-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4774"
+       style="overflow:visible">
+      <path
+         id="path4776"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4778"
+       style="overflow:visible">
+      <path
+         id="path4780"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4864"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-0"
+       style="overflow:visible">
+      <path
+         id="path3650-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-38"
+       style="overflow:visible">
+      <path
+         id="path3653-23"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4910"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-8"
+       style="overflow:visible">
+      <path
+         id="path3650-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         id="path3653-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4918"
+       style="overflow:visible">
+      <path
+         id="path4920"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4922"
+       style="overflow:visible">
+      <path
+         id="path4924"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4926"
+       style="overflow:visible">
+      <path
+         id="path4928"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4930"
+       style="overflow:visible">
+      <path
+         id="path4932"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5114"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-49"
+       style="overflow:visible">
+      <path
+         id="path3650-41"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible">
+      <path
+         id="path3653-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5160"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-1"
+       style="overflow:visible">
+      <path
+         id="path3650-62"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-02"
+       style="overflow:visible">
+      <path
+         id="path3653-29"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5168"
+       style="overflow:visible">
+      <path
+         id="path5170"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5172"
+       style="overflow:visible">
+      <path
+         id="path5174"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5176"
+       style="overflow:visible">
+      <path
+         id="path5178"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5180"
+       style="overflow:visible">
+      <path
+         id="path5182"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5184"
+       style="overflow:visible">
+      <path
+         id="path5186"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5188"
+       style="overflow:visible">
+      <path
+         id="path5190"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5320"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-2"
+       style="overflow:visible">
+      <path
+         id="path3650-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-6"
+       style="overflow:visible">
+      <path
+         id="path3653-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5366"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         id="path3653-59"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5394"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65902888"
+     inkscape:cx="-66.340467"
+     inkscape:cy="658.8231"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="528.0497,736.69003"
+       id="guide3637" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99705338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2816"
+       sodipodi:cx="484.97461"
+       sodipodi:cy="336.16629"
+       sodipodi:rx="25.750864"
+       sodipodi:ry="25.214388"
+       d="m 510.72547,336.16629 a 25.750864,25.214388 0 1 1 -51.50172,0 25.750864,25.214388 0 1 1 51.50172,0 z"
+       transform="matrix(0.99025803,0,0,1.0113273,111.40424,-23.406631)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3590"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(4.2413079,-13.656458)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3592"><rect
+           id="rect3594"
+           width="56.901909"
+           height="95.595207"
+           x="572.05383"
+           y="368.78061" /></flowRegion><flowPara
+         id="flowPara3596"
+         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">E</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3598"
+       width="122.90812"
+       height="112.28643"
+       x="388.62418"
+       y="259.52896"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 435.47343,294.61844 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-1.912561,3.6037875)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(31.090553,4.1728171)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-2.671245,-38.693286)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 511.26194,315.67215 49.35582,0"
+       id="path3639"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 455.8845,410.15105 0.38387,108.65267 122.65863,-0.38477"
+       id="path4277"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 486.6807,450.99821 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-3"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-7"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(49.2947,159.98356)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1-4"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(82.297822,160.55259)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(48.53602,117.68648)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 616.26194,315.67215 49.35582,0"
+       id="path3639-1"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4729"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-6.8282289,-23.598896)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4731"><rect
+           id="rect4733"
+           width="80.421364"
+           height="46.28022"
+           x="687.37506"
+           y="303.91241"
+           style="font-size:36px" /></flowRegion><flowPara
+         id="flowPara4735">. . .</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99705338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2816-6"
+       sodipodi:cx="484.97461"
+       sodipodi:cy="336.16629"
+       sodipodi:rx="25.750864"
+       sodipodi:ry="25.214388"
+       d="m 510.72547,336.16629 a 25.750864,25.214388 0 1 1 -51.50172,0 25.750864,25.214388 0 1 1 51.50172,0 z"
+       transform="matrix(0.99025803,0,0,1.0113273,-213.59576,-23.406627)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3590-0"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-320.75869,-13.656457)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3592-2"><rect
+           id="rect3594-5"
+           width="56.901909"
+           height="95.595207"
+           x="572.05383"
+           y="368.78061" /></flowRegion><flowPara
+         id="flowPara3596-8"
+         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">T</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3598-9"
+       width="122.90812"
+       height="112.28643"
+       x="18.624184"
+       y="259.52896"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 65.47343,294.61844 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-5"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-06"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-371.91256,3.6037926)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1-0"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-338.90944,4.1728226)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0-8"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-372.67124,-38.693287)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 142.8058,315.67215 92.19922,0"
+       id="path3639-3"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);opacity:0.6"
+       d="m 100.8845,410.15105 0.38387,108.65267 122.65863,-0.38477"
+       id="path4277-7"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.6"
+       d="m 131.6807,450.99821 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-3-8"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-7-2"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-305.7053,159.98356)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-1-4-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-272.70217,160.55259)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-0-1-0"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-306.46398,117.68648)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 291.05127,315.67215 87.26243,0"
+       id="path3639-1-5"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 240.8845,410.15105 0.38387,108.65267 122.65863,-0.38477"
+       id="path4277-7-0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 271.6807,450.99821 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-3-8-7"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-7-2-7"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-165.7053,159.98356)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1-4-1-7"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-132.70217,160.55259)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0-1-0-6"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-166.46398,117.68648)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99705338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2816-6-5"
+       sodipodi:cx="484.97461"
+       sodipodi:cy="336.16629"
+       sodipodi:rx="25.750864"
+       sodipodi:ry="25.214388"
+       d="m 510.72547,336.16629 a 25.750864,25.214388 0 1 1 -51.50172,0 25.750864,25.214388 0 1 1 51.50172,0 z"
+       transform="matrix(0.99025803,0,0,1.0113273,-578.59576,-23.406627)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3590-0-6"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-685.75869,-13.656457)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3592-2-8"><rect
+           id="rect3594-5-4"
+           width="56.901909"
+           height="95.595207"
+           x="572.05383"
+           y="368.78061" /></flowRegion><flowPara
+         id="flowPara3596-8-8"
+         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">R</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3598-9-8"
+       width="122.90812"
+       height="112.28643"
+       x="-346.37582"
+       y="259.52896"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -299.52657,294.61844 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-5-3"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-06-8"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-736.91256,3.6037926)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1-0-7"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-703.90944,4.1728226)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0-8-5"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-737.67124,-38.693287)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m -222.1942,315.67215 92.19922,0"
+       id="path3639-3-2"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);opacity:0.6"
+       d="m -264.1155,410.15105 0.38387,108.65267 122.65863,-0.38477"
+       id="path4277-7-4"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.6"
+       d="m -233.3193,450.99821 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-3-8-5"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-7-2-0"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-670.7053,159.98356)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-1-4-1-5"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-637.70217,160.55259)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-0-1-0-7"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-671.46398,117.68648)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m -73.94873,315.67215 87.26243,0"
+       id="path3639-1-5-3"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);stroke-dashoffset:0;opacity:0.6"
+       d="m -124.1155,410.15105 0.38387,108.65267 122.65863,-0.38477"
+       id="path4277-7-0-2"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.6"
+       d="m -93.3193,450.99821 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-3-8-7-7"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-7-2-7-2"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-530.7053,159.98356)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-1-4-1-7-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-497.70217,160.55259)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-0-1-0-6-3"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-531.46398,117.68648)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m -190.2725,432.55917 66.92762,85.59348 96.656765,-75.51661"
+       id="path4277-7-0-2-7"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-16.35228"
+       inkscape:transform-center-y="-43.633322"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -140.89848,445.94207 26.55108,33.89508 26.370061,-20.46968 -52.921141,-13.4254 z"
+       id="path3600-3-8-7-7-4"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-10.050605"
+       inkscape:transform-center-y="-55.024088"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-7-2-7-2-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(0.78993788,-0.61318688,0.61318688,0.78993788,-664.8526,484.25793)"
+       inkscape:transform-center-x="-10.275206"
+       inkscape:transform-center-y="-39.141074"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1-4-1-7-1-2"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(0.78993788,-0.61318688,0.61318688,0.78993788,-638.43326,464.47034)"
+       inkscape:transform-center-x="-36.694546"
+       inkscape:transform-center-y="-58.928664"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0-1-0-6-3-2"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(0.78993788,-0.61318688,0.61318688,0.78993788,-691.38793,451.31108)"
+       inkscape:transform-center-x="16.260124"
+       inkscape:transform-center-y="-72.087924"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.99705338;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2816-6-5-7"
+       sodipodi:cx="484.97461"
+       sodipodi:cy="336.16629"
+       sodipodi:rx="25.750864"
+       sodipodi:ry="25.214388"
+       d="m 510.72547,336.16629 a 25.750864,25.214388 0 1 1 -51.50172,0 25.750864,25.214388 0 1 1 51.50172,0 z"
+       transform="matrix(0.99025803,0,0,1.0113273,-943.59576,-23.406627)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3590-0-6-4"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-1050.7587,-13.656457)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3592-2-8-3"><rect
+           id="rect3594-5-4-5"
+           width="56.901909"
+           height="95.595207"
+           x="572.05383"
+           y="368.78061" /></flowRegion><flowPara
+         id="flowPara3596-8-8-6"
+         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">S</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3598-9-8-1"
+       width="122.90812"
+       height="112.28643"
+       x="-711.37585"
+       y="259.52896"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -664.52657,294.61844 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-5-3-4"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-06-8-0"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-1101.9126,3.6037926)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1-0-7-3"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-1068.9094,4.1728226)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0-8-5-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-1102.6712,-38.693287)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m -587.1942,315.67215 92.19922,0"
+       id="path3639-3-2-2"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);opacity:0.6"
+       d="m -629.1155,410.15105 0.38387,108.65267 122.65863,-0.38477"
+       id="path4277-7-4-7"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.6"
+       d="m -598.3193,450.99821 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-3-8-5-7"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-7-2-0-9"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-1035.7053,159.98356)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-1-4-1-5-8"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-1002.7022,160.55259)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-0-1-0-7-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-1036.464,117.68648)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m -438.94873,315.67215 87.26243,0"
+       id="path3639-1-5-3-0"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);opacity:0.6"
+       d="m -489.1155,410.15105 0.38387,108.65267 122.65863,-0.38477"
+       id="path4277-7-0-2-76"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.6"
+       d="m -458.3193,450.99821 0.18968,43.05578 33.38245,0 -33.57213,-43.05578 z"
+       id="path3600-3-8-7-7-0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-7-2-7-2-10"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-895.7053,159.98356)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-1-4-1-7-1-25"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-862.70217,160.55259)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-0-1-0-6-3-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="translate(-896.46398,117.68648)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);opacity:0.6"
+       d="m -555.2725,432.55917 66.92762,85.59348 96.65677,-75.51661"
+       id="path4277-7-0-2-7-9"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-16.35228"
+       inkscape:transform-center-y="-43.633322"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.6"
+       d="m -505.89848,445.94207 26.55108,33.89508 26.37006,-20.46968 -52.92114,-13.4254 z"
+       id="path3600-3-8-7-7-4-7"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-10.050605"
+       inkscape:transform-center-y="-55.024088"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-7-2-7-2-1-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(0.78993788,-0.61318688,0.61318688,0.78993788,-1029.8526,484.25793)"
+       inkscape:transform-center-x="-10.275206"
+       inkscape:transform-center-y="-39.141074"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-1-4-1-7-1-2-3"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(0.78993788,-0.61318688,0.61318688,0.78993788,-1003.4333,464.47034)"
+       inkscape:transform-center-x="-36.694546"
+       inkscape:transform-center-y="-58.928664"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       id="path3602-0-1-0-6-3-2-1"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(0.78993788,-0.61318688,0.61318688,0.78993788,-1056.3879,451.31108)"
+       inkscape:transform-center-x="16.260124"
+       inkscape:transform-center-y="-72.087924"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m -592.53853,389.29791 104.65524,129.81357 151.14296,-114.5307"
+       id="path4277-7-0-2-7-9-7"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-25.370938"
+       inkscape:transform-center-y="-65.601427"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -515.33199,409.5948 41.51813,51.40627 41.23507,-31.04491 -82.7532,-20.36136 z"
+       id="path3600-3-8-7-7-4-7-4"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-15.716208"
+       inkscape:transform-center-y="-83.451166"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.59742165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-7-2-7-2-1-1-9"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(1.2352321,-0.92997715,0.95884517,1.1980429,-1334.6432,467.70578)"
+       inkscape:transform-center-x="-16.067406"
+       inkscape:transform-center-y="-59.362491"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.59742165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-1-4-1-7-1-2-3-2"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(1.2352321,-0.92997715,0.95884517,1.1980429,-1293.3311,437.69534)"
+       inkscape:transform-center-x="-57.379569"
+       inkscape:transform-center-y="-89.372931"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.59742165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3602-0-1-0-6-3-2-1-4"
+       sodipodi:cx="438.33435"
+       sodipodi:cy="333.31174"
+       sodipodi:rx="2.4657493"
+       sodipodi:ry="2.4657493"
+       d="m 440.8001,333.31174 a 2.4657493,2.4657493 0 1 1 -4.9315,0 2.4657493,2.4657493 0 1 1 4.9315,0 z"
+       transform="matrix(1.2352321,-0.92997715,0.95884517,1.1980429,-1376.1366,417.73762)"
+       inkscape:transform-center-x="25.426041"
+       inkscape:transform-center-y="-109.33065"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m -812.1942,315.67215 92.19922,0"
+       id="path3639-3-2-2-1"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4729-2"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-1551.8282,-23.598893)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/modelview.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion4731-8"><rect
+           id="rect4733-9"
+           width="80.421364"
+           height="46.28022"
+           x="687.37506"
+           y="303.91241"
+           style="font-size:36px" /></flowRegion><flowPara
+         id="flowPara4735-6">. . .</flowPara></flowRoot>  </g>
+</svg>

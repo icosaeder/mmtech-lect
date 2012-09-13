@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="projections.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3598"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3626"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3626-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3626-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3666"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3666-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3666-90"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3706"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3760"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3791"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3822"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3853"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3884"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3884-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3930"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4051"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4073"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4108"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4108-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8097551"
+     inkscape:cx="-420.87779"
+     inkscape:cy="220.18957"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="944"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3612" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2816"
+       width="196"
+       height="196"
+       x="-1026.9686"
+       y="736.28687"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -761.96861,847.28687 -196,0 0,-196"
+       id="rect2816-1"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -830.35918,931.82335 68.92705,-84.73176"
+       id="path3616-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -831.04238,735.99786 68.92705,-84.73176"
+       id="path3616-0-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0"
+       d="m -1026.6991,932.16411 68.92704,-84.73176"
+       id="path3616-0-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="rect2816-1-1"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1027.4151,735.18525 68.11384,-83.91271 197.33265,0.0143 0,196"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#0000ff;stroke:#000000;stroke-width:2.26663923000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3724"
+       width="24.52767"
+       height="59.258945"
+       x="-548.20673"
+       y="966.27838"
+       transform="matrix(1,0,-0.62756338,0.77856548,0,0)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3726"
+       width="148"
+       height="148"
+       x="-1237.1179"
+       y="700.07208"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#0000ff;stroke:#000000;stroke-width:2.26663923000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3724-0"
+       width="24.52767"
+       height="59.258945"
+       x="-285.39676"
+       y="990.71741"
+       transform="matrix(1,0,-0.62756338,0.77856548,0,0)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-1135.2774,286.78561)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777"><rect
+           id="rect3779"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">bottom</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-7"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-1040.2774,51.785616)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-6"><rect
+           id="rect3779-3"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-1"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">top</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-75"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="matrix(0,-1,1,0,-1713.9456,1017.7879)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-9"><rect
+           id="rect3779-6"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-2"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">left</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-75-1"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="matrix(0,-1,1,0,-1478.9456,952.78794)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-9-7"><rect
+           id="rect3779-6-8"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-2-5"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">right</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-74"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-961.93616,273.1252)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-1"><rect
+           id="rect3779-8"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-5"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">near</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-753"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-892.89518,187.393)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-8"><rect
+           id="rect3779-83"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-18"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">far</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2816-9"
+       width="196"
+       height="196"
+       x="-362.37677"
+       y="710.78864"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:#008000;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -540.4882,772.94975 -62.46227,0 27.18874,-47.65435 24.52767,0 10.74586,47.65435 z"
+       id="rect3724-8"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3726-6"
+       width="148"
+       height="148"
+       x="-647.52612"
+       y="674.57385"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="color:#000000;fill:#008000;stroke:#000000;stroke-width:2.26663923000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3724-0-0"
+       width="24.52767"
+       height="59.258945"
+       x="358.64221"
+       y="957.9671"
+       transform="matrix(1,0,-0.62756338,0.77856548,0,0)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-4"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-470.68554,261.28738)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-88"><rect
+           id="rect3779-89"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-7"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">bottom</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-7-7"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-375.68556,26.287382)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-6-6"><rect
+           id="rect3779-3-4"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-1-3"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">top</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-75-0"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="matrix(0,-1,1,0,-1049.3538,957.28969)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-9-3"><rect
+           id="rect3779-6-0"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-2-9"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">left</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-75-1-2"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="matrix(0,-1,1,0,-814.35381,927.28969)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-9-7-5"><rect
+           id="rect3779-6-8-4"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-2-5-0"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">right</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-74-5"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-297.34433,247.62697)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-1-9"><rect
+           id="rect3779-8-4"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-5-6"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">near</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-753-9"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="translate(-143.30334,161.89476)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-8-2"><rect
+           id="rect3779-83-2"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-18-4"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">far</flowPara></flowRoot>    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-dasharray:12,12"
+       d="m -14.017517,834.90082 -444.925023,0"
+       id="path4098"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -458.94254,834.90082 0,-196 444.925023,0 0,196"
+       id="rect2816-9-7"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -166.30766,710.62676 -13.948384,639.27541"
+       id="path4087"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -362.12152,711.16324 -97.10222,-72.4243"
+       id="path4089"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -362.75284,907.23186 -459.538,834.86985"
+       id="path4091"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -166.21282,906.9148 -13.379365,834.80476"
+       id="path4093"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/perspective.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3775-75-8"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       transform="matrix(0,-1,1,0,-1713.9456,1017.7879)"
+       inkscape:export-filename="/home/icosaeder/Алгоритмические основы мультимедиа/Лекция №2/parallel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3777-9-5"><rect
+           id="rect3779-6-06"
+           width="130.49504"
+           height="28.830299"
+           x="138.84065"
+           y="649.4967" /></flowRegion><flowPara
+         id="flowPara3781-2-4"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold Italic">left</flowPara></flowRoot>  </g>
+</svg>
